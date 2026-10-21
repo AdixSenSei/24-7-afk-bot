@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": VoidDamage",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Akira_Adix.aternos.me",
+    "port": 21228,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "SoloPlayz"
+      "enabled": false,
+      "password": "123"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "ADIX has a bounty of 100trillion hunt him!!!",
+        "Subscribe to AdixSensei",
+        "pls never mess with Adix he is really DANGEROUS"
       ]
     },
     "chat-log": true,
